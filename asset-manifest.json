@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/grocery-list/static/css/main.8c20a956.css",
+    "main.css": "/grocery-list/static/css/main.5b863262.css",
     "main.js": "/grocery-list/static/js/main.ed27f152.js",
     "index.html": "/grocery-list/index.html",
-    "main.8c20a956.css.map": "/grocery-list/static/css/main.8c20a956.css.map",
+    "main.5b863262.css.map": "/grocery-list/static/css/main.5b863262.css.map",
     "main.ed27f152.js.map": "/grocery-list/static/js/main.ed27f152.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c20a956.css",
+    "static/css/main.5b863262.css",
     "static/js/main.ed27f152.js"
   ]
 }
